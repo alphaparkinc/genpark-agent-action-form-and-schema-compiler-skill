@@ -1,0 +1,7 @@
+[project]
+name = "genpark-agent-action-form-and-schema-compiler-skill"
+version = "1.0.0"
+description = "Agent tool-to-UI schema compiler, human-in-the-loop action form generator, and parameter validation enforcer"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
